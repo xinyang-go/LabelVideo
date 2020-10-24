@@ -11,7 +11,7 @@
 | 第三方库 | 作用         | 安装方式                                         |
 | -------- | ------------ | ------------------------------------------------ |
 | OpenCV 4 | 图像处理库   | [github链接](https://github.com/opencv/opencv)   |
-| libfmt   | 格式化字符串 | sudo apt install libfmt-dev                      |
+| fmt      | 格式化字符串 | [github链接](https://github.com/fmtlib/fmt)      |
 | yaml-cpp | YAML文件读写 | [github链接](https://github.com/jbeder/yaml-cpp) |
 
 使用cmake进行编译
